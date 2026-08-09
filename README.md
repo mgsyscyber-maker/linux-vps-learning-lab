@@ -188,18 +188,21 @@ Secrets will be maintained outside the repository and injected into the environm
 
 **Status:** 🟡 Initial Setup
 
-Current phase:
+### Completed
 
-* [x] GitHub repository created
-* [x] Project scope defined
-* [ ] VPS environment provisioned
-* [ ] Ubuntu baseline configuration
-* [ ] SSH hardening
-* [ ] Firewall configuration
-* [ ] Network service deployment
-* [ ] Monitoring and logging
-* [ ] Backup strategy
-* [ ] VPS migration test
+* GitHub repository created
+* Project scope defined
+
+### Planned
+
+* VPS environment provisioning
+* Ubuntu baseline configuration
+* SSH hardening
+* Firewall configuration
+* Network service deployment
+* Monitoring and logging
+* Backup strategy
+* VPS migration test
 
 ## Purpose
 
