@@ -190,17 +190,17 @@ Secrets will be maintained outside the repository and injected into the environm
 
 Current phase:
 
-- [x] GitHub repository created
-- [x] Project scope defined
-- [ ] VPS environment provisioned
-- [ ] Ubuntu baseline configuration
-- [ ] SSH hardening
-- [ ] Firewall configuration
-- [ ] Network service deployment
-- [ ] Monitoring and logging
-- [ ] Backup strategy
-- [ ] VPS migration test
-      
+* [x] GitHub repository created
+* [x] Project scope defined
+* [ ] VPS environment provisioned
+* [ ] Ubuntu baseline configuration
+* [ ] SSH hardening
+* [ ] Firewall configuration
+* [ ] Network service deployment
+* [ ] Monitoring and logging
+* [ ] Backup strategy
+* [ ] VPS migration test
+
 ## Purpose
 
 This project is maintained as a practical learning and experimentation environment for Linux infrastructure, networking, cybersecurity, and cloud/VPS administration.
